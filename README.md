@@ -1,10 +1,10 @@
- ## Oi, eu sou o Caio 👋😄
+ ## Hi, i'm Caio 👋😄
  
--Desenvolvedor Full Stack
+-DEV Full Stack
 
--Estudando Javascript
+-Learning Javascript, React and Typescript
 
--Cursando o terceiro ano do ensino médio
+-Attending high school
  
  ##
 
