@@ -1,34 +1,44 @@
- ## Hi, i'm Caio 👋😄
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
  
--DEV Full Stack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HI,+my+name+is+CAIO+BORGES+SELLA😋;I'm+17+years+old👀;I+from+Rio+Verde,+GO🌎;I+study+in+SESI📚;Be+Welcome!+:%29💖)](https://git.io/typing-svg)
 
--Learning Javascript, React and Typescript
 
--Attending high school
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CAIOZIn1&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=00030C&" alt="status Caio" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOZIn1&layout=compact&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=00030C" />
+</div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=CAIOZIn1&theme=dracula&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CAIOZIn1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://www.instagram.com/caio_lindao1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  
- ##
+ ###
+ 
+ <br><p align="center"><b>My Skills:</b></p>  
+ [![My Skills](https://skills.thijs.gg/icons?i=python,html,css,js,react&theme=dark)](https://skills.thijs.gg)
+ 
+ ###
+ 
+ [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,flask,qt&theme=dark)](https://skills.thijs.gg)
+ 
+ [![My Skills](https://skills.thijs.gg/icons?i=mysql,sqlite&theme=dark)](https://skills.thijs.gg)
+ 
+ [![My Skills](https://skills.thijs.gg/icons?i=premiere,aftereffects,illustrator,figma&theme=dark)](https://skills.thijs.gg)
+ 
+ [![My Skills](https://skills.thijs.gg/icons?i=git,github&theme=dark)](https://skills.thijs.gg)
+
+</div> 
+ 
+ 
 
 <div align="center">
-  <a href="https://github.com/CAIOZIn1">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CAIOZIn1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOZIn1&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<br><p align="center"><b>Visitors Count:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CAIOZIn1}/count.svg" /></p> 
+<br></div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Caio" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/1185137_uALl2Tmi.png">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
-
-  ##
- 
-<div> 
-  <a href="https://instagram.com/caio_lindao1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/mr_stainx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "sellacaio4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
