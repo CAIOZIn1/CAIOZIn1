@@ -20,7 +20,7 @@
  ###
  
  <br><p align="center"><b>My Skills:</b></p>  
- [![My Skills](https://skills.thijs.gg/icons?i=python,html,css,js,typescript,react&theme=dark)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=python,html,css,scss,js,typescript,react&theme=dark)](https://skills.thijs.gg)
  
  ###
  
