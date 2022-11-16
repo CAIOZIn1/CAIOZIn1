@@ -1,0 +1,14 @@
+{
+    "editor.wordWrap": "on",
+    "diffEditor.wordWrap": "on",
+    "editor.fontSize": 18,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        "javascript": "javascriptreact"
+    },
+    "workbench.startupEditor": "none",
+    "explorer.compactFolders": false
+}
