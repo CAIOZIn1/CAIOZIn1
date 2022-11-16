@@ -10,5 +10,12 @@
         "javascript": "javascriptreact"
     },
     "workbench.startupEditor": "none",
-    "explorer.compactFolders": false
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "python": "cls ; python -u"
+    },
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python"
 }
