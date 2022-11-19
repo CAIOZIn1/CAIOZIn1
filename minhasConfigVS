@@ -3,7 +3,7 @@
     "diffEditor.wordWrap": "on",
     "editor.fontSize": 18,
     "explorer.confirmDelete": false,
-    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.colorTheme": "Dark Horizon",
     "workbench.iconTheme": "material-icon-theme",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "files.associations": {
