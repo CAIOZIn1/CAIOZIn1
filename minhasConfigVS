@@ -17,5 +17,16 @@
         "python": "cls ; python -u"
     },
     "code-runner.ignoreSelection": true,
-    "python.defaultInterpreterPath": "python"
+    "python.defaultInterpreterPath": "python",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[python]": {
+    }
 }
