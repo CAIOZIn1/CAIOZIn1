@@ -8,14 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOZIn1&layout=compact&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=00030C" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=CAIOZIn1&theme=dracula&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CAIOZIn1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">  
-<a href="https://www.instagram.com/caio_lindao1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  
  ###
  
