@@ -27,21 +27,23 @@
     "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontSize": 18,
     "editor.rulers": [80, 120],
     "editor.fontFamily": "'Fira Code', Consolas, 'Dank Mono', 'Source Code Pro', 'Fira Code', Menlo, 'Inconsolata', 'Droid Sans Mono', 'DejaVu Sans Mono', 'Ubuntu Mono', 'Courier New', Courier, Monaco, monospace",
-    "terminal.integrated.fontFamily": "",
+    "terminal.integrated.fontFamily": "'Fira Code', Consolas, 'Dank Mono', 'Source Code Pro', 'Fira Code', Menlo, 'Inconsolata', 'Droid Sans Mono', 'DejaVu Sans Mono', 'Ubuntu Mono', 'Courier New', Courier, Monaco, monospace",
     "editor.fontLigatures": true,
     "[python]": {
         "editor.defaultFormatter": "ms-python.python",
-        "editor.tabSize": 4,
+        "editor.tabSize": 2,
         "editor.insertSpaces": true,
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
-        "source.fixAll": true,
-        "source.fixAll.unusedImports": true,
-        "source.organizeImports": true
-        }
+            "source.fixAll.eslint": true,
+            "source.fixAll": true,
+            "source.fixAll.unusedImports": true,
+            "source.organizeImports": true
+        },
+        "editor.formatOnType": true
     },
     "python.languageServer": "Pylance",
     "python.formatting.autopep8Args": [
@@ -58,7 +60,20 @@
     "python.testing.pytestEnabled": true,
     "python.analysis.diagnosticSeverityOverrides": {},
     // "python.defaultInterpreterPath": "./venv/bin/python",
-    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.typeCheckingMode": "off",
     "cSpell.enabled": false,
-    "window.zoomLevel": 1
+    "git.confirmSync": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+    },
+    "tabnine.experimentalAutoImports": true,
     }
