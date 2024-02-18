@@ -11,17 +11,4 @@
 
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CAIOZIn1&bg_color=000000&color=ff0000&line=ffffff&point=f00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  # Technologies and Tools
-
-  ![Typescript](https://img.shields.io/badge/-typescript-blue?logo=typescript&logoColor=white&style=flat-square)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
-  ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square)
-  ![Next](https://img.shields.io/badge/-Next-black?logo=next.js&logoColor=white&style=flat-square)
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat-square)
-  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
-
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
